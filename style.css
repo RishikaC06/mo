@@ -1,0 +1,76 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+
+.navbar{
+border: none;
+background-color: blue;
+color: rgba(243, 99, 2, 0.849);
+}
+
+body{
+	background-color: rgba(243, 99, 2, 0.849);
+	color: green;
+}
+.glyphicon{
+	font-size: 30px;
+	color: red; 
+	text-align: center;
+}
+
+.nav navbar-nav visible-xs{
+	text-align: center;
+}
+
+.navbar-brand:hover{
+	color: blueviolet;
+}
+
+.navbar-toggle{
+	border: 2px solid white;
+	margin-right: 25px;
+}
+
+
+.center{
+	width: 90%;
+	background-color: rgb(241, 238, 42);
+
+}
+.container
+{
+	background-color: rgb(241, 238, 42);
+}
+.text-center{
+	font-size: 50px;
+	color: purple;
+	font-weight: bold;
+}
+
+ul{
+	text-align: centre;
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color: red;
+}
+.navbar-brand{
+font-size: 30px;	
+}
+
+.navbar-nav{
+	font-size: 25px;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+  }
+
+.menu-item:hover{
+	background-color: rgba(0,0,0,0.9);
+	color: rgba(0,0,0,0.4);
+}
